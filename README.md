@@ -1,4 +1,4 @@
-<h1 align=center>Crypto-sLedger - <a target="_blank" href="https://loquacious-mandazi-b8901f.netlify.app/" target="_blank" rel="nofollow">Demo</a> </h1>
+<h1 align=center>Crypto-sLedger - <a target="_blank" href="https://loquacious-mandazi-b8901f.netlify.app/" target="_blank">Demo</a> </h1>
 
 
 <p align=center>
